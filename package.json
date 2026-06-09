@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/deepanm87/planets-project#readme",
   "dependencies": {
-    "csv-parse": "^6.2.1"
+    "csv-parse": "^6.2.1",
+    "fs": "^0.0.1-security"
   }
 }
